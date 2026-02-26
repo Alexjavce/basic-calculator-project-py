@@ -1,7 +1,7 @@
 print("---Bienvenido al programa---\n---CALCUTRON 3000---")
 
-usur_guard = "alexjavce"
-contr_guard = "salsa123"
+usur_guard = "tungtung"
+contr_guard = "sahur"
 
 usur_ = input("Ingresa tu nombre de usuario: ")
 while usur_ != usur_guard:
