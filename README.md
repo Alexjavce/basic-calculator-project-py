@@ -3,10 +3,15 @@
 **este es un programa codificado en python en el que puedes realizar operaciones básicas(+,-,x,/).**
 este pequeño programa lo mantendré actualizado y añadiré nuevas funciones en la medida que vaya aprendiendo mas, combinando mi jornada academica y de autoaprendizaje de programación.
 ---
-## Credenciales de uso
-|usuario|contraseña|
-|:-----:|:--------:|
-|tungtung|sahur|
+## Sistema de uso
+|#|Pasos|
+|:--:|:--:|
+|1|El sistema te pedira que ingreses usuario y contraseña para luego guardarlos(no los olvides)|
+|2|Con las credenciales ingresadas anteriormente, el programa los pedira nuevamente para su comparacion, si no son correctos el programa los pedira de froma iterativa|
+|3|En el menú del programa se desplegaran todos los calculos que puedes hacer(calculo de areas de figuras geometricas y "+,-,*,/")|
+*Nota:Recomiendo abrir el programa desde el terminal en tu IDE*
+
+
 ## Operaciones
 |función|nombre|
 |:-----:|:-----:|
